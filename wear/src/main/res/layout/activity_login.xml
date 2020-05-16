@@ -13,8 +13,6 @@
         android:gravity="center_horizontal"
         android:orientation="vertical"
         app:boxedEdges="all">
-
-
         <EditText
             android:id="@+id/Email"
             android:layout_width="162dp"
